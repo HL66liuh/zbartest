@@ -21,6 +21,7 @@
 //138427291 
     NSURL *url = [NSURL URLWithString:urlstr];
     
+    self.view.backgroundColor = [UIColor redColor];
     
 }
 
